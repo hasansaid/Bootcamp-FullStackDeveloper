@@ -1,0 +1,35 @@
+.App {
+  height: 500px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: red; */
+  height: 100%;
+}
+
+.foto {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+  /* background-color: aqua; */
+}
+
+.bilgi {
+  margin: 5px;
+}
+
+.model {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 10px;
+}
+
+.renk {
+}
+
+.renk button {
+  margin: 3px;
+}
